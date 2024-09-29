@@ -1,0 +1,8 @@
+Image Labelling
+https://youtu.be/7hGSLGc7cCY?si=ppffIDe-UYITPET6
+
+Annotation and preparation
+https://youtu.be/e7VSOi2Yvng?si=33cnc9F7GDJ8o6Qx
+
+Train Yolov8 object detection on a custom dataset
+https://youtu.be/m9fH9OWn8YM?si=1MctTcSguzAXYFXk
